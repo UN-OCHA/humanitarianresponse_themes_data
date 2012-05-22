@@ -1,0 +1,7 @@
+name = HumanitarianResponse Themes Data
+description = Terms for the theme taxonomy
+core = 7.x
+package = Humanitarianresponse data
+dependencies[] = humanitarianresponse_themes
+features[features_api][] = api:1
+features[uuid_entities][] = themes
