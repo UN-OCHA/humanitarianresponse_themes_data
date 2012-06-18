@@ -18,6 +18,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Civil/Military Relations',
     'path' => array(
       'alias' => 'themes/civilmilitary-relations',
@@ -63,6 +65,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Disarmament and Demobilization',
     'path' => array(
       'alias' => 'themes/disarmament-and-demobilization',
@@ -108,6 +112,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Disaster management',
     'path' => array(
       'alias' => 'themes/disaster-management',
@@ -153,6 +159,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Field coordination',
     'path' => array(
       'alias' => 'themes/field-coordination',
@@ -198,6 +206,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'HIV/AIDS',
     'path' => array(
       'alias' => 'themes/hivaids',
@@ -243,6 +253,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Humanitarian Financing',
     'path' => array(
       'alias' => 'themes/humanitarian-financing',
@@ -288,6 +300,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Internally Displaced People (IDPs)',
     'path' => array(
       'alias' => 'themes/internally-displaced-people-idps',
@@ -333,6 +347,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Mine Action',
     'path' => array(
       'alias' => 'themes/mine-action',
@@ -378,6 +394,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Refugees and Returnees',
     'path' => array(
       'alias' => 'themes/refugees-and-returnees',
@@ -423,6 +441,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Safety & Security',
     'path' => array(
       'alias' => 'themes/safety-security',
@@ -468,6 +488,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Sexual and Gender based Violence',
     'path' => array(
       'alias' => 'themes/sexual-and-gender-based-violence',
@@ -513,6 +535,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Technical co-operation with other countries',
     'path' => array(
       'alias' => 'themes/technical-co-operation-other-countries',
@@ -558,6 +582,8 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
     ),
     'description' => '',
     'format' => 'plain_text',
+    'i18n_tsid' => '0',
+    'language' => 'und',
     'name' => 'Other',
     'path' => array(
       'alias' => 'themes/other',
