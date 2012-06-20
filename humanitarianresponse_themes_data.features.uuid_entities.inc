@@ -17,10 +17,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Civil/Military Relations',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Civil/Military Relations',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/civilmilitary-relations',
       'pathauto' => FALSE,
@@ -64,10 +81,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Disarmament and Demobilization',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Disarmament and Demobilization',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/disarmament-and-demobilization',
       'pathauto' => FALSE,
@@ -111,10 +145,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Disaster management',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Disaster management',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/disaster-management',
       'pathauto' => FALSE,
@@ -158,10 +209,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Field coordination',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Field coordination',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/field-coordination',
       'pathauto' => FALSE,
@@ -205,10 +273,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'HIV/AIDS',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'HIV/AIDS',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/hivaids',
       'pathauto' => FALSE,
@@ -252,10 +337,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Humanitarian Financing',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Humanitarian Financing',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/humanitarian-financing',
       'pathauto' => FALSE,
@@ -299,10 +401,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Internally Displaced People (IDPs)',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Internally Displaced People (IDPs)',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/internally-displaced-people-idps',
       'pathauto' => FALSE,
@@ -346,10 +465,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Mine Action',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Mine Action',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/mine-action',
       'pathauto' => FALSE,
@@ -393,10 +529,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Refugees and Returnees',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Refugees and Returnees',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/refugees-and-returnees',
       'pathauto' => FALSE,
@@ -440,10 +593,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Safety & Security',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Safety & Security',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/safety-security',
       'pathauto' => FALSE,
@@ -487,10 +657,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Sexual and Gender based Violence',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Sexual and Gender based Violence',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/sexual-and-gender-based-violence',
       'pathauto' => FALSE,
@@ -534,10 +721,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Technical co-operation with other countries',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Technical co-operation with other countries',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/technical-co-operation-other-countries',
       'pathauto' => FALSE,
@@ -581,10 +785,27 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
       'cause' => FALSE,
     ),
     'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
     'format' => 'plain_text',
     'i18n_tsid' => '0',
     'language' => 'und',
     'name' => 'Other',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Other',
+        ),
+      ),
+    ),
     'path' => array(
       'alias' => 'themes/other',
       'pathauto' => FALSE,
