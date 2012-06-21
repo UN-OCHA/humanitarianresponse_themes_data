@@ -36,6 +36,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           'value' => 'Civil/Military Relations',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Civil/Military Relations',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Relations Civiles/Militaires',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'themes/civilmilitary-relations',
@@ -97,6 +109,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Disarmament and Demobilization',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Disarmament and Demobilization',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Désarmement et Démobilisation',
         ),
       ),
     ),
@@ -162,6 +186,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           'value' => 'Disaster management',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Disaster management',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Gestion des Désastres',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'themes/disaster-management',
@@ -223,6 +259,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Field coordination',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Field coordination',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Coordination sur le Terrain',
         ),
       ),
     ),
@@ -288,6 +336,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           'value' => 'HIV/AIDS',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'HIV/AIDS',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'VIH/SIDA',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'themes/hivaids',
@@ -349,6 +409,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Humanitarian Financing',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Humanitarian Financing',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Financement Humanitaire',
         ),
       ),
     ),
@@ -414,6 +486,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           'value' => 'Internally Displaced People (IDPs)',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Internally Displaced People (IDPs)',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Déplacés Internes (IDPs)',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'themes/internally-displaced-people-idps',
@@ -475,6 +559,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Mine Action',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Mine Action',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Déminage',
         ),
       ),
     ),
@@ -540,6 +636,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           'value' => 'Refugees and Returnees',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Refugees and Returnees',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Réfugiés et Rapatriés',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'themes/refugees-and-returnees',
@@ -601,6 +709,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Safety & Security',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Safety & Security',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Sûreté & Sécurité',
         ),
       ),
     ),
@@ -666,6 +786,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           'value' => 'Sexual and Gender based Violence',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Sexual and Gender based Violence',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Violence Sexuelle et Sexiste',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'themes/sexual-and-gender-based-violence',
@@ -729,6 +861,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           'value' => 'Technical co-operation with other countries',
         ),
       ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Technical co-operation with other countries',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Coopération Technique avec d\'autres pays',
+        ),
+      ),
     ),
     'path' => array(
       'alias' => 'themes/technical-co-operation-other-countries',
@@ -790,6 +934,18 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         0 => array(
           'format' => NULL,
           'value' => 'Other',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Other',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Autre',
         ),
       ),
     ),
