@@ -81,6 +81,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => 'f9bbcf04-92b5-24e4-5136-ac88102df71b',
     'vocabulary_machine_name' => 'themes',
     'weight' => '0',
@@ -154,6 +171,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '80db9aaa-1b4d-8f04-7d99-2870f0ac0136',
@@ -231,6 +265,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '86d499af-2e26-75b4-e102-c6424d0e35d2',
     'vocabulary_machine_name' => 'themes',
     'weight' => '0',
@@ -304,6 +355,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '0ce02f74-c231-b2a4-95b4-b87c960f7459',
@@ -381,6 +449,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '9ded8528-02f2-6f24-399b-1744f92f89cf',
     'vocabulary_machine_name' => 'themes',
     'weight' => '0',
@@ -454,6 +539,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '90d5e546-2f59-d094-71a9-101b4b9c6051',
@@ -531,6 +633,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '73baf6f1-1085-2444-15c3-8d0e4a7bfb82',
     'vocabulary_machine_name' => 'themes',
     'weight' => '0',
@@ -604,6 +723,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => '8ef00868-67f9-92f4-f906-69eee309a0e9',
@@ -681,6 +817,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '29e0789c-98e3-e394-c9c6-aabeecc42111',
     'vocabulary_machine_name' => 'themes',
     'weight' => '0',
@@ -754,6 +907,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'eb4e0d7a-5095-a7a4-45c7-3666754f7300',
@@ -831,6 +1001,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => '5fc7cc7a-abc6-f724-19cb-6833f011586e',
     'vocabulary_machine_name' => 'themes',
     'weight' => '0',
@@ -906,6 +1093,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
         'type' => 'rel',
       ),
     ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
     'uuid' => 'c05a0554-eff8-e414-d5f1-62eaab8f2c8c',
     'vocabulary_machine_name' => 'themes',
     'weight' => '0',
@@ -979,6 +1183,23 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
           0 => 'skos:broader',
         ),
         'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
       ),
     ),
     'uuid' => 'dc596d6c-ac04-38e4-21ca-da320758686e',
