@@ -565,6 +565,98 @@ function humanitarianresponse_themes_data_uuid_default_entities() {
   $entities['themes'][] = (object) array(
     '__metadata' => array(
       'type' => 'taxonomy_term',
+      'uri' => 'taxonomy_term/486d8ae7-a19b-4723-ba02-b4eea49fdd8a',
+      'cause' => FALSE,
+    ),
+    'description' => '',
+    'description_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => 'plain_text',
+          'summary' => NULL,
+          'value' => '',
+        ),
+      ),
+    ),
+    'format' => 'plain_text',
+    'language' => 'und',
+    'name' => 'Information Management',
+    'name_field' => array(
+      'und' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Information Management',
+        ),
+      ),
+      'en' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Information Management',
+        ),
+      ),
+      'fr' => array(
+        0 => array(
+          'format' => NULL,
+          'value' => 'Gestion de l\'Information',
+        ),
+      ),
+    ),
+    'path' => array(
+      'alias' => 'themes/information-management',
+      'pathauto' => FALSE,
+    ),
+    'rdf_mapping' => array(
+      'rdftype' => array(
+        0 => 'skos:Concept',
+      ),
+      'name' => array(
+        'predicates' => array(
+          0 => 'rdfs:label',
+          1 => 'skos:prefLabel',
+        ),
+      ),
+      'description' => array(
+        'predicates' => array(
+          0 => 'skos:definition',
+        ),
+      ),
+      'vid' => array(
+        'predicates' => array(
+          0 => 'skos:inScheme',
+        ),
+        'type' => 'rel',
+      ),
+      'parent' => array(
+        'predicates' => array(
+          0 => 'skos:broader',
+        ),
+        'type' => 'rel',
+      ),
+    ),
+    'translations' => array(
+      'original' => 'en',
+      'data' => array(
+        'en' => array(
+          'language' => 'en',
+          'source' => '',
+          'status' => '1',
+          'translate' => '0',
+        ),
+        'fr' => array(
+          'language' => 'fr',
+          'source' => 'en',
+          'status' => '1',
+          'translate' => '0',
+        ),
+      ),
+    ),
+    'uuid' => '486d8ae7-a19b-4723-ba02-b4eea49fdd8a',
+    'vocabulary_machine_name' => 'themes',
+    'weight' => '0',
+  );
+  $entities['themes'][] = (object) array(
+    '__metadata' => array(
+      'type' => 'taxonomy_term',
       'uri' => 'taxonomy_term/73baf6f1-1085-2444-15c3-8d0e4a7bfb82',
       'cause' => FALSE,
     ),
